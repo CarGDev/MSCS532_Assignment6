@@ -215,25 +215,6 @@ Through this assignment, I have achieved the following learning outcomes:
 
 - **Software Engineering**: Applied best practices including comprehensive testing, error handling, code documentation, and modular design.
 
-## Code Screenshots
-
-Below are screenshots of the actual implementations and testing setup:
-
-![Deterministic Selection Implementation](docs/screenshot_deterministic.png)
-*Figure 1: Deterministic selection algorithm implementation showing the Median of Medians function*
-
-![Randomized Selection Implementation](docs/screenshot_randomized.png)
-*Figure 2: Randomized selection algorithm implementation with random pivot selection*
-
-![Data Structures Implementation](docs/screenshot_datastructures.png)
-*Figure 3: Data structures implementation showing linked list and tree classes*
-
-![Test Execution](docs/screenshot_tests.png)
-*Figure 4: Running comprehensive test suite to validate all implementations*
-
-![Benchmark Execution](docs/screenshot_benchmarks.png)
-*Figure 5: Benchmark execution showing performance comparison between algorithms*
-
 ## Practical Applications
 
 ### Selection Algorithms
